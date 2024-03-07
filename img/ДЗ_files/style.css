@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body{
+    background: #37b99f;
+}
+
+.main {
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-around
+}
+a{
+    font-size: 14px 0;
+    text-decoration: none;
+}
+img{
+    width: 500px;
+    
+}
+
+.info{
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+}
+
+
+p{
+    margin: 4px 0;
+   width: 200px;
+   font-size: 11px;
+}
